@@ -23,7 +23,7 @@ PClient client = new PClient(hostName, meowmeowmeow);
 ### Get Client Servers
 `PCient.GetServers();`
 Returns
-`ListServerDatum`
+`List<ServerDatum>`
 Example
 ```csharp
 PClient client = new PClient(hostName, meowmeowmeow);
