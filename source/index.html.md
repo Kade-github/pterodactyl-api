@@ -26,6 +26,7 @@ includes:
   - api-application/locations
   - api-application/servers
   - api-application/nests
+  - api-wrapper/sharpdactyl
   - errors
 
 search: true
