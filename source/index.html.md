@@ -7,6 +7,7 @@ language_tabs: # must be one of https://git.io/vQNgJ
 #  - go
 #  - java
 #  - javascript
+#  - csharp
 
 
 toc_footers:
@@ -26,7 +27,6 @@ includes:
   - api-application/locations
   - api-application/servers
   - api-application/nests
-  - api-wrapper/sharpdactyl
   - errors
 
 search: true
