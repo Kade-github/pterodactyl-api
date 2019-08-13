@@ -27,6 +27,7 @@ includes:
   - api-application/locations
   - api-application/servers
   - api-application/nests
+  - api-wrapper/*
   - errors
 
 search: true
